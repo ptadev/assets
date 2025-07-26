@@ -1,0 +1,15 @@
+{
+  "name": "TopLife Token",
+  "symbol": "TLF",
+  "decimals": 18,
+  "description": "TopLife Token (TLF) is the official utility token of the TopLife ecosystem – a multi-platform network focused on health, wellness, numerology, and digital personal growth services. TLF is used for payments, rewards, and community incentives across affiliated projects such as toplifetoyou.com and trathansohocmienphi.com.",
+  "website": "https://toplifetoyou.com",
+  "explorer": "https://polygonscan.com/token/0xe3Eb0957A71C47F871C0261bd6b7aC800c2Cf54A",
+  "status": "active",
+  "id": "0xe3Eb0957A71C47F871C0261bd6b7aC800c2Cf54A",
+  "type": "ERC20",
+  "tags": ["ecosystem", "utility-token", "health", "numerology"],
+  "links": {
+    "website": "https://toplifetoyou.com"
+  }
+}
